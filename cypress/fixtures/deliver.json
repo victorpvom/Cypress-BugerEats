@@ -1,0 +1,52 @@
+{ 
+      "signup": {
+            "name": "Victor Moura",
+            "cpf": "06433598340",
+            "email": "victor@gmail.com",
+            "whatsapp": "85986070231",
+            "address": {
+                  "postalcode": "60861105",
+                  "street": "Rua 1º de Abril",
+                  "number": "607",
+                  "details": "Baixo",
+                  "district": "Boa Vista-Castelão",
+                  "city_state": "Fortaleza/CE"
+            },
+            "delivery_method": "Moto",
+            "cnh": "/images/cnh-digital.jpg"
+      },
+
+      "cpf_inv": {
+            "name": "Leticia Moura",
+            "cpf": "0643359AA40",
+            "email": "leticia@gmail.com",
+            "whatsapp": "85986070231",
+            "address": {
+                  "postalcode": "60861105",
+                  "street": "Rua 1º de Abril",
+                  "number": "607",
+                  "details": "Baixo",
+                  "district": "Boa Vista-Castelão",
+                  "city_state": "Fortaleza/CE"
+            },
+            "delivery_method": "Moto",
+            "cnh": "/images/cnh-digital.jpg"
+      },
+
+      "email_inv": {
+            "name": "Victor Moura",
+            "cpf": "06433598340",
+            "email": "victor.com.br",
+            "whatsapp": "85986070231",
+            "address": {
+                  "postalcode": "60861105",
+                  "street": "Rua 1º de Abril",
+                  "number": "607",
+                  "details": "Baixo",
+                  "district": "Boa Vista-Castelão",
+                  "city_state": "Fortaleza/CE"
+            },
+            "delivery_method": "Moto",
+            "cnh": "/images/cnh-digital.jpg"
+      }
+}
